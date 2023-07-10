@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T12:51:12.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EMFk7S1R8FtWDUYfK0ht" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-10T12:59:07.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7laTsEhwZQtXNq061EHH" version="21.6.1" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="WP-Order-Flow">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,6 +182,21 @@
         </mxCell>
         <mxCell id="xa4rZRARrqlqA5kTz4Cx-35" value="Klaviyo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xa4rZRARrqlqA5kTz4Cx-8">
           <mxGeometry x="268" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xa4rZRARrqlqA5kTz4Cx-38" value="Netsuite to update invntory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xa4rZRARrqlqA5kTz4Cx-8">
+          <mxGeometry x="96" y="56" width="114" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="xa4rZRARrqlqA5kTz4Cx-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="xa4rZRARrqlqA5kTz4Cx-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="56" y="118" as="sourcePoint" />
+            <mxPoint x="56" y="86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xa4rZRARrqlqA5kTz4Cx-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xa4rZRARrqlqA5kTz4Cx-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="56" y="86" as="sourcePoint" />
+            <mxPoint x="96" y="86" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xa4rZRARrqlqA5kTz4Cx-15" value="Notification" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="xa4rZRARrqlqA5kTz4Cx-3">
           <mxGeometry x="636" width="154" height="201" as="geometry">
